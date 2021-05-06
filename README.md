@@ -9,7 +9,7 @@ No written analysis necessary for this Challenge. (Analysis not graded)
 ##### Jupyter Notebook, PgAdmin v4, .csv files supplied
 
 ### Objective:
-###### Deliverable 1: Deliverable 1: Write an ETL Function to Read Three Data Files
+###### Deliverable 1: Write an ETL Function to Read Three Data Files
 
 ###### Deliverable 2: Extract and Transform the Wikipedia Data
 
